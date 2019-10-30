@@ -1,3 +1,5 @@
+package Miscs;
+
 import java.util.*;
 
 public class test {
